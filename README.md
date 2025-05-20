@@ -1,4 +1,4 @@
-# AI Starter Kit
+# LocalRAG-PDF
 
 A **minimal** code base for creating AI apps to do Question Answering (QA) over PDF documents, completely **locally**.
 
